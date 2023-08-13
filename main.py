@@ -42,4 +42,12 @@ print( sum( 5, 10) )
 print( div( 10 , 2 ) )
 print( multiply(15 , 10 ) )
 
+x = lambda a : a + 5
+
+print(x(2))
+
+lambda x , y : x + y
+
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
